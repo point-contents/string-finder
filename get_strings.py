@@ -77,18 +77,19 @@ class Constants(Ancestor):
                 self.all_variables.append(item)
 
     def report(self):
-        print(json.dumps(self.all_variables))
+        return self.all_variables
 
     def get_strings(self):
         with open(self.filename, "r") as source:
             nodes = ast.parse(source.read())
             self.visit(nodes)
-            return constants.report()
+            return self.report()
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-f', "--file", help="file to parse")
+    parser.add_argument('dump', help="dump to std out")
     args = parser.parse_args()
 
     source_file = "parse.py"
@@ -100,7 +101,8 @@ def main():
         constants = Constants()
         constants.filename = source_file
         constants.visit(nodes)
-        constants.report()
+        if args.dump:
+            print(json.dumps(constants.report()))
 
 
 if __name__ == '__main__':
