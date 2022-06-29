@@ -1,0 +1,656 @@
+[
+  {
+    "id": "__version__",
+    "value": "3.8",
+    "lineno": 11,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "__tabversion__",
+    "value": "3.8",
+    "lineno": 12,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "^[a-zA-Z0-9_]+$",
+    "lineno": 30,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "LexToken(%s,%r,%d,%d)",
+    "lineno": 43,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "\n",
+    "lineno": 57,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "WARNING: ",
+    "lineno": 60,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "\n",
+    "lineno": 60,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "ERROR: ",
+    "lineno": 63,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "\n",
+    "lineno": 63,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": null,
+    "value": "INITIAL",
+    "lineno": 102,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": null,
+    "value": "",
+    "lineno": 115,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": null,
+    "value": "",
+    "lineno": 116,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "",
+    "lineno": 151,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Won't overwrite existing lextab module",
+    "lineno": 153,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": ".",
+    "lineno": 154,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": ".py",
+    "lineno": 155,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "w",
+    "lineno": 156,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "# %s.py. This file automatically created by PLY (version %s). Don't edit!\n",
+    "lineno": 157,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_tabversion   = %s\n",
+    "lineno": 158,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_lextokens    = %s\n",
+    "lineno": 159,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_lexreflags   = %s\n",
+    "lineno": 160,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_lexliterals  = %s\n",
+    "lineno": 161,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_lexstateinfo = %s\n",
+    "lineno": 162,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_lexstatere   = %s\n",
+    "lineno": 172,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_lexstateignore = %s\n",
+    "lineno": 173,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_lexstateerrorf = %s\n",
+    "lineno": 178,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_lexstateeoff = %s\n",
+    "lineno": 183,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "import %s",
+    "lineno": 192,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_tabversion",
+    "lineno": 195,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "0.0",
+    "lineno": 195,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Inconsistent PLY version",
+    "lineno": 196,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "INITIAL",
+    "lineno": 223,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Expected a string",
+    "lineno": 232,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Undefined state",
+    "lineno": 242,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "",
+    "lineno": 245,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s:%d: Rule '%s' returned an unknown token type '%s'",
+    "lineno": 338,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": null,
+    "value": "error",
+    "lineno": 359,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Scanning error. Illegal character '%s'",
+    "lineno": 366,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Illegal character '%s' at index %d",
+    "lineno": 373,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": null,
+    "value": "eof",
+    "lineno": 377,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": null,
+    "value": "",
+    "lineno": 378,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "No input string given with input()",
+    "lineno": 388,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "regex",
+    "lineno": 417,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "|",
+    "lineno": 473,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "ignore_",
+    "lineno": 488,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_",
+    "lineno": 512,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "ANY",
+    "lineno": 514,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "INITIAL",
+    "lineno": 520,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "ANY",
+    "lineno": 522,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "_",
+    "lineno": 525,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "INITIAL",
+    "lineno": 541,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "inclusive",
+    "lineno": 541,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "tokens",
+    "lineno": 562,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "No token list is defined",
+    "lineno": 564,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "tokens must be a list or tuple",
+    "lineno": 569,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "tokens is empty",
+    "lineno": 574,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Bad token name '%s'",
+    "lineno": 585,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Token '%s' multiply defined",
+    "lineno": 588,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "literals",
+    "lineno": 593,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "",
+    "lineno": 593,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": null,
+    "value": "",
+    "lineno": 595,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Invalid literal %s. Must be a single character",
+    "lineno": 602,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Invalid literals specification. literals must be a sequence of characters",
+    "lineno": 606,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "states",
+    "lineno": 610,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "states must be defined as a tuple or list",
+    "lineno": 614,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Invalid state specifier %s. Must be a tuple (statename,'exclusive|inclusive')",
+    "lineno": 619,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "State name %s must be a string",
+    "lineno": 624,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "inclusive",
+    "lineno": 627,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "exclusive",
+    "lineno": 627,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "State type for state %s must be 'inclusive' or 'exclusive'",
+    "lineno": 628,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "State '%s' already defined",
+    "lineno": 632,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "t_",
+    "lineno": 641,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "No rules of the form t_rulename are defined",
+    "lineno": 656,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "__call__",
+    "lineno": 665,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "error",
+    "lineno": 666,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "eof",
+    "lineno": 669,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "ignore",
+    "lineno": 672,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s:%d: Rule '%s' must be defined as a string",
+    "lineno": 675,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "ignore",
+    "lineno": 681,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "\\",
+    "lineno": 684,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s contains a literal backslash '\\'",
+    "lineno": 685,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "error",
+    "lineno": 687,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Rule '%s' must be defined as a function",
+    "lineno": 688,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s not defined as a function or string",
+    "lineno": 694,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s:%d: Rule '%s' has too many arguments",
+    "lineno": 723,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s:%d: Rule '%s' requires an argument",
+    "lineno": 728,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s:%d: No regular expression defined for rule '%s'",
+    "lineno": 733,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "(?P<%s>%s)",
+    "lineno": 738,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "",
+    "lineno": 739,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s:%d: Regular expression for rule '%s' matches empty string",
+    "lineno": 740,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s:%d: Invalid regular expression for rule '%s'. %s",
+    "lineno": 743,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "#",
+    "lineno": 744,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s:%d. Make sure '#' in rule '%s' is escaped with '\\#'",
+    "lineno": 745,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "error",
+    "lineno": 751,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Rule '%s' must be defined as a function",
+    "lineno": 752,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "ignore_",
+    "lineno": 756,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Rule '%s' defined for an unspecified token %s",
+    "lineno": 757,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "(?P<%s>%s)",
+    "lineno": 762,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "",
+    "lineno": 763,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Regular expression for rule '%s' matches empty string",
+    "lineno": 764,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Invalid regular expression for rule '%s'. %s",
+    "lineno": 767,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "#",
+    "lineno": 768,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "Make sure '#' in rule '%s' is escaped with '\\#'",
+    "lineno": 769,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "No rules defined for state '%s'",
+    "lineno": 773,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s:%d: Rule '%s' has too many arguments",
+    "lineno": 791,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s:%d: Rule '%s' requires an argument",
+    "lineno": 795,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "\\s*def\\s+(t_[a-zA-Z_0-9]*)\\(",
+    "lineno": 812,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "\\s*(t_[a-zA-Z_0-9]*)\\s*=",
+    "lineno": 813,
+    "filename": "short_lex.py"
+  },
+  {
+    "id": "plain_assignment",
+    "value": "%s:%d: Rule %s redefined. Previously defined on line %d",
+    "lineno": 828,
+    "filename": "short_lex.py"
+  }
+]

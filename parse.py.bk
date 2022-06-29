@@ -1,0 +1,23 @@
+a = "asldkjfalkdsjf"
+b = 1000
+c = 300
+
+def my_func(this = "this-assigned"):
+    yyy = "yyy"
+    print("qweoiruqwoeru")
+
+
+# this doesnt work yet to get the variable name, 
+# need to add default variables in 
+def func2(z = "inside a function"):
+    print(a)
+
+def func3(first_arg = "first_arg as string", second_arg = "second_arg as string"):
+    pass
+
+def func4(jjj):
+    print(jjj)
+
+yy = "ajs;ldkjfalksdjfa;kljsdfkljadsfjnakjdshvahnvasdvj"
+
+func4("jjjjjjjjjj")
